@@ -17,7 +17,7 @@ Track the pocket money you give to your kids.
 Alternatively, instead of point 3, you can compile to an .exe file using command:<br/>
 `pip install pyinstaller`<br/>
 followed by <br/>
-`pyinstaller --onefile --windowed --name "PocketMoneyTracker" main.py` and run this exe file (in `dist` folder).
+`pyinstaller --onefile --windowed --name "PocketMoneyTracker" main.py` and run this exe file (in `dist` folder taht will be generated). Or, download an already compiled exe file from this repo.
 
 ## data.json
 The same data.json file is usable in both python and php config (ie. you can copy it from one to the other construct and it will work).
