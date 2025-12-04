@@ -33,3 +33,14 @@ The same data.json file is usable in both python and php config (ie. you can cop
 Spent = given to the kids so that they can spend it.<br/>
 Given = given by your kids (to charity for example). <br/>
 Saved = what you keep aside for your kids, they can use part/all of it in the future.
+
+## Screenshots
+
+### PHP version
+<img width="1223" height="1857" alt="2NOLhu0rUp" src="https://github.com/user-attachments/assets/617f9757-5bc8-46da-83b4-6e01ca560eb6" />
+
+### Python version
+<img width="1102" height="782" alt="python_m2rcy5WtjF" src="https://github.com/user-attachments/assets/855c14bb-7f83-48f4-9d85-fd7e8f78c633" />
+<img width="1920" height="1032" alt="python_bwDTPP9riG" src="https://github.com/user-attachments/assets/788229d4-aa15-4a9c-9988-4f32a61300ce" />
+<img width="1920" height="1032" alt="python_RLzMKRJE1P" src="https://github.com/user-attachments/assets/b0c1d517-8704-463c-9a48-5bb65aa15c1e" />
+
